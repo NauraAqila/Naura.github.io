@@ -1,0 +1,28 @@
+*{
+	margin: 3px;
+	padding: 2px;
+}
+
+body {
+  range:"kawai zero two.jpg"
+}
+
+.profile img {
+	width: 500px;
+	height: 500px;
+	border-radius: 0%;
+	margin-left: 500px;
+	margin-top: 30px;
+	margin-bottom: 24px;
+}
+
+.profile h1 {
+	font-size: 3em;
+	font-weight: 300;
+	color: #ffffff;
+}
+
+.profile p {
+	font-size: 2em;
+	color: #ffffff;
+}
